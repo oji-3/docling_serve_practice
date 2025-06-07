@@ -59,9 +59,9 @@ docling-serve run
 docling-serve run --enable-ui
 ```
 
-API http://127.0.0.1:5001
-API documentation http://127.0.0.1:5001/docs
-Demonstration UI http://127.0.0.1:5001/ui
+API http://127.0.0.1:5001  
+API documentation http://127.0.0.1:5001/docs  
+Demonstration UI http://127.0.0.1:5001/ui  
 
 
 
